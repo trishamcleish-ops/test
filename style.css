@@ -1,0 +1,16 @@
+body {
+  font-family:Bodoni MT rgb(241, 239, 239);
+  background-color: #4c1cfa;
+  text-align: center;
+  
+  font: size 50px;
+}
+h1 {font-family:Bodoni MT rgb(250, 247, 247);
+  color: #fffffe;
+  
+  font: size 50px;
+}
+p {
+  font: size 60px;
+  color: #070104;
+}script
